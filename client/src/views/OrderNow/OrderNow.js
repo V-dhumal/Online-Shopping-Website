@@ -6,7 +6,7 @@ function OrderNow() {
     <div>
         <Navbar />
         <h1 style={{textAlign: 'center',margin: '150px',fontSize: '70px'}}> OrderNow 🏡 </h1>
-        <p>order </p>
+        <p>order Now Page </p>
     </div>
   )
 }
